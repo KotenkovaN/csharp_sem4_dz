@@ -1,0 +1,15 @@
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/task29
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/task29.deps.json
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/task29.runtimeconfig.json
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/task29.dll
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/ref/task29.dll
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/bin/Debug/net6.0/task29.pdb
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.csproj.AssemblyReference.cache
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.AssemblyInfoInputs.cache
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.AssemblyInfo.cs
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.csproj.CoreCompileInputs.cache
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.dll
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/ref/task29.dll
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.pdb
+/home/natalia/Рабочий стол/c#sem4_dz/csharp_sem4_dz/task29/obj/Debug/net6.0/task29.genruntimeconfig.cache
